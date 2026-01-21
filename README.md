@@ -1,4 +1,4 @@
-# Tauri + React
+# tauritrae20260121
 
 This template should help get you started developing with Tauri and React in Vite.
 
